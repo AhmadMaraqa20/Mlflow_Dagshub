@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Qafza/6/Mlflow_Dagshub/mlruns/987199527822364025/97c7a0d2e23d479e81bf248ae99b240f/artifacts
+end_time: 1736624714863
+entry_point_name: ''
+experiment_id: '987199527822364025'
+lifecycle_stage: active
+run_id: 97c7a0d2e23d479e81bf248ae99b240f
+run_name: KNeighbors
+run_uuid: 97c7a0d2e23d479e81bf248ae99b240f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736624708143
+status: 3
+tags: []
+user_id: HP
