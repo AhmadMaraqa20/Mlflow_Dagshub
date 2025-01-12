@@ -3,9 +3,9 @@
 
 ## Project Overview
    - This project demonstrates the usage of MLflow for tracking machine learning experiments and managing the end-to-end ML lifecycle. The implementation includes:
-      1. Model Training and Logging: Tracks experiments with parameters, metrics, and models.
-      2. Local MLflow Server Setup: Provides instructions to host MLflow locally for tracking runs.
-      3. Model Registry: Registers models for versioning and deployment.
+1. Model Training and Logging: Tracks experiments with parameters, metrics, and models.
+2. Local MLflow Server Setup: Provides instructions to host MLflow locally for tracking runs.
+3. Model Registry: Registers models for versioning and deployment.
 
 ## Prerequisites
 1-MLflow: Install MLflow via pip:
