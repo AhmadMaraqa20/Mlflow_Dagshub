@@ -1,8 +1,22 @@
 # ML Model Development and Offline Evaluation
 
 
-## Overview
-This project involves building a machine learning model to classify mushrooms as edible or poisonous based on their features. The project utilizes the Mushroom Classification dataset and leverages MLflow for experiment tracking, model comparison, and offline evaluation.
+## Project Overview
+   -This project demonstrates the usage of MLflow for tracking machine learning experiments and managing the end-to-end ML lifecycle. The implementation includes:
+      1-Model Training and Logging: Tracks experiments with parameters, metrics, and models.
+      2-Local MLflow Server Setup: Provides instructions to host MLflow locally for tracking runs.
+      3-Model Registry: Registers models for versioning and deployment.
+
+## Prerequisites
+1-MLflow: Install MLflow via pip:
+```bash
+pip install mlflow
+```
+2-Environment Setup: Install additional dependencies by running:
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Dataset
 The dataset used in this project is sourced from Kaggle: [Mushroom Classification](https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset). It is a cleaned version of the original UCI Mushroom Dataset and includes 9 columns describing physical attributes of mushrooms for classification.
@@ -46,5 +60,5 @@ The dataset used in this project is sourced from Kaggle: [Mushroom Classificatio
 ## Tools and Technologies
    - Programming Language: Python.
    - Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn, MLflow.
-   - Experiment Tracking: MLflow (local and DagsHub).
+   - Experiment Tracking: MLflow ((local setup and DagsHub integration)).
 
