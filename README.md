@@ -10,8 +10,8 @@ The dataset used in this project is sourced from Kaggle: Mushroom Classification
 ## Project Workflow
 
 1. Data Loading
-- The cleaned dataset was loaded directly without requiring additional preprocessing.
-- The data was split into training and testing sets to ensure reliable evaluation.
+   - The cleaned dataset was loaded directly without requiring additional preprocessing.
+   - The data was split into training and testing sets to ensure reliable evaluation.
 
 2. Model Development
 - Several machine learning algorithms were tested, including:
