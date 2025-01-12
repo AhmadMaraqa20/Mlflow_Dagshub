@@ -20,13 +20,12 @@ The dataset used in this project is sourced from Kaggle: Mushroom Classification
    3-K-Nearest Neighbors (KNN)
    4-Decision Tree
 
-3. Experiment Tracking with MLflow
+3. Experiment Tracking with MLflow:
 -MLflow was used to track experiments, including:
   -Parameters
   -Metrics (e.g., accuracy, precision, recall, F1 score)
   -Artifacts (e.g., model files)
-
-Both local MLflow and DagsHub were employed for tracking and managing experiments.
+-Both local MLflow and DagsHub were employed for tracking and managing experiments.
 
 4. Offline Evaluation
 -The final model was evaluated using offline evaluation techniques.
