@@ -25,13 +25,14 @@ The dataset used in this project is sourced from Kaggle: Mushroom Classification
   -Parameters
   -Metrics (e.g., accuracy, precision, recall, F1 score)
   -Artifacts (e.g., model files)
+
 -Both local MLflow and DagsHub were employed for tracking and managing experiments.
 
-4. Offline Evaluation
+5. Offline Evaluation
 -The final model was evaluated using offline evaluation techniques.
 -Metrics from the test set were compared across models to identify the best-performing one.
 
-5. Model Selection
+6. Model Selection
 -After comparing all models, the Random Forest model was chosen as the final model based on its superior performance in accuracy and balanced metrics.
 -The selected model was registered using MLflow for future reference and deployment.
 
