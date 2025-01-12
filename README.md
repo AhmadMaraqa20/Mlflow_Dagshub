@@ -40,7 +40,12 @@ Both local MLflow and DagsHub were employed for tracking and managing experiment
 The model with the highest accuracy and balanced performance across other metrics was the Random Forest model.
 -Detailed comparison and results of all models can be found in the experiment logs tracked via MLflow.
 
+## View results
+-To view MLflow tracking results locally, start the MLflow UI: mlflow ui
+-For DagsHub tracking, visit the relevant repository and explore tracked experiments.
+
 ## Tools and Technologies
 -Programming Language: Python
 -Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn, MLflow
 -Experiment Tracking: MLflow (local and DagsHub)
+
