@@ -54,7 +54,10 @@ The dataset used in this project is sourced from Kaggle: [Mushroom Classificatio
    - Detailed comparison and results of all models can be found in the experiment logs tracked via MLflow.
 
 ## View results
-   - To view MLflow tracking results locally, start the MLflow UI: mlflow ui
+   - To view MLflow tracking results locally, start the MLflow UI: 
+```bash
+mlflow ui
+```
    - For DagsHub tracking, visit the relevant repository and explore tracked experiments [(DagsHub repo)](https://dagshub.com/AhmadMaraqa20/Mlflow_Dagshub).
 
 
