@@ -29,10 +29,10 @@ The dataset used in this project is sourced from Kaggle: [Mushroom Classificatio
 
 2. Model Development
    - Several machine learning algorithms were tested, including:
-      1- Random Forest.
-      2- Logistic Regression.
-      3- K-Nearest Neighbors (KNN).
-      4- Decision Tree.
+      1. Random Forest.
+      2. Logistic Regression.
+      3. K-Nearest Neighbors (KNN).
+      4. Decision Tree.
 
 3. Experiment Tracking with MLflow:
    - MLflow was used to track experiments, including:
