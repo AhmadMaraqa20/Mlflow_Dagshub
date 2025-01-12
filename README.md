@@ -5,7 +5,8 @@
 This project involves building a machine learning model to classify mushrooms as edible or poisonous based on their features. The project utilizes the Mushroom Classification dataset and leverages MLflow for experiment tracking, model comparison, and offline evaluation.
 
 ## Dataset
-The dataset used in this project is sourced from Kaggle: Mushroom Classification. It is a cleaned version of the original UCI Mushroom Dataset and includes 9 columns describing physical attributes of mushrooms for classification.
+The dataset used in this project is sourced from Kaggle: [Mushroom Classification](https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset). It is a cleaned version of the original UCI Mushroom Dataset and includes 9 columns describing physical attributes of mushrooms for classification.
+
 
 ## Project Workflow
 
